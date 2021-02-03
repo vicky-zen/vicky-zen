@@ -1,7 +1,7 @@
 ### Hi there, I'm UJJWAL 
 
 ## I'm a Student Developer.
-- 🌱 I’m currently learning<img alt="PHP" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/><img alt="JAVA" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/> <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/>
+- 🌱 I’m currently learning<img alt="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="17"/><img alt="JAVA" src="https://www.giosdatascience.com/wp-content/uploads/2018/08/java-logo.png" height="17"/> <img alt="Python" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height="17"/>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: To do more Collaboration. 
 - ⚡ Fun fact: I like to code in any language.
